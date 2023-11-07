@@ -4,7 +4,7 @@
 
 My name is Denitsa and I am a passionate beginner coder.
   
-Currently I'm on my journey with C# exploring web, app and even game development. I am very curious where this journey will take me (obviously places)!<br>
+Currently on my journey with C# exploring web, app and even game development. I am very curious where this journey will take me (obviously places)!<br>
   
 ![527d9c4d79368](https://github.com/DenitsaBebrevenska/DenitsaBebrevenska/assets/141340307/d5f5a61a-82b7-4b4b-9355-dff025927075)
 
