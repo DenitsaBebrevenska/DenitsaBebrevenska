@@ -14,5 +14,6 @@ This repository is my playground where I experiment, practice, and document my p
 
 I will be focusing on C# for now. I will probably delve into web development along the way, although I am most eager for making games in Unity!
 
+## A random joke for you!
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
